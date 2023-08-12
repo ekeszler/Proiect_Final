@@ -24,7 +24,6 @@ public class ProductCatalog {
                 return true;
 
             }
-
     }
 
     public Product getProductByName(String name) {
